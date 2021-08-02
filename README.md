@@ -1,5 +1,5 @@
 # Uni-MMS
-Project about predition of medals on Olympic Games
+Project about prediction of medals on Olympic Games
 
 --EN
 Introduction:
